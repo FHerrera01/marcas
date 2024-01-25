@@ -1,0 +1,44 @@
+header{
+    background-color: lightgray;
+    border : 2px solid black;
+    height:15%;
+}
+
+header *{
+    text-align: center;
+
+}
+
+#centro{
+    display: flex;
+    height: 70%;
+}
+
+section{
+    background-color: blanchedalmond;
+    text-align: center;
+    width:70%;
+}
+
+section img{
+    justify-content: center;
+    margin:30px;
+    border: 2px solid black;
+}
+
+aside{
+    width: 30%;
+    background-color: lightgray;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    padding: 50px;
+}
+
+aside *{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: lightgray;
+    border: 2px solid black;;
+}
