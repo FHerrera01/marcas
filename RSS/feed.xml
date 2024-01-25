@@ -10,8 +10,22 @@
         <item>
             <title>Liverpool-Real Madrid</title>
             <link>http://www.ejemplo.com/articulo1</link>
-            <description>Final de la Champions League entre el Liverpool y el Real Madrid</description>
-            <pubDate>Lun, 25 Ene 2024 12:30:00 GMT</pubDate>
+            <description>Noticia sobre la final de la Champions League entre el Liverpool y el Real Madrid</description>
+            <pubDate>Lun, 23 Ene 2024 12:30:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Blog IES Augusto González de Linares</title>
+            <link>https://agustoenelaugusto.com/</link>
+            <description>Enlace al blog oficial del centro</description>
+            <pubDate>Lun, 23 Ene 2024 12:30:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Página web IES Augusto González de Linares</title>
+            <link>http://www.iesaglinares.com/</link>
+            <description>Enlace a la página principal del instituto</description>
+            <pubDate>Lun, 23 Ene 2024 12:30:00 GMT</pubDate>
         </item>
         
     </channel>
