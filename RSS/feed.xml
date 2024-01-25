@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>DAM LMGSI Feed RSS</title>
+        <link>http://www.ejemplo.com</link>
+        <description>Portal de enlaces para tarea 3 LMSGI</description>
+        <language>es-es</language>
+        pubDate
+        
+        <item>
+            <title>Liverpool-Real Madrid</title>
+            <link>http://www.ejemplo.com/articulo1</link>
+            <description>Final de la Champions League entre el Liverpool y el Real Madrid</description>
+            <pubDate>Lun, 25 Ene 2024 12:30:00 GMT</pubDate>
+        </item>
+        
+    </channel>
+</rss>
